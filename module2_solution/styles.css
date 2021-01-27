@@ -1,0 +1,27 @@
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+
+section {
+	position: relative;
+	background-color: gray;
+}
+
+section > h2 {
+	position: relative;
+	top: 0px;
+	right: 0px;
+	float: right;
+	top: 0px;
+	right: 0px;
+	padding: 0px 2px 0px 2px;
+	border: 2px solid black;
+	width: 200px;
+}
