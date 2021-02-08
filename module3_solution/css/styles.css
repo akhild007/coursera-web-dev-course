@@ -1,0 +1,104 @@
+
+body {
+	background-color: #61122f;
+	font-family: 'Oxygen', serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+h1 {
+	font-family: 'Lora', serif;
+	color: #fff;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top:0;
+	margin-bottom: 0;
+	line-height: .8;
+}
+
+h2 {
+	font-family: 'Lora', serif;
+	color: #fff;
+	font-weight: bold;
+	margin-top: 20px;
+	line-height: .75;
+}
+
+h3 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#nav-list {
+	margin-top: 10px;
+	background-color: #804013;
+}
+
+#nav-list a {
+	text-align: center;
+	background: #992123;
+	color: #fff;
+}
+
+#nav-list a:hover {
+	background: #661a00;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #661a00;
+}
+
+.item h3 {
+	padding: 5px 0px 15px 0px;
+	margin: 10px 0px 0px 0px;
+}
+
+div.item {
+	margin: 10px;
+	background: #c603fc;
+	color: #fff;
+	padding: 15px;
+}
+
+.item a {
+	color: #ffcc00;
+}
+
+.item a:hover {
+	color: #ff9900;
+}
+
+/* Media Quaries */
+
+/*large and medium*/
+@media (min-width: 992px) { 
+.navbar-brand h1 {
+	font-size: 1.8em;
+}
+h2 { 
+	font-size: 1.5em; 
+}
+h3 { 
+	font-size: 1.3em; 
+}
+}
+
+/*small devices*/
+@media (min-width: 768px) and (max-width: 991px) { 
+.navbar-brand h1 {font-size: 1.5em;}
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.1em; }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) { 
+.navbar-brand h1 {font-size: 1.5em;} 
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.1em; }
+}
