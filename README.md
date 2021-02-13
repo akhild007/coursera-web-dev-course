@@ -2,6 +2,8 @@
 This Repository contains my solutions to the assignments of the course "HTML, CSS and Javascript for Web developers" form Coursera. 
 The course has 5 modules. Except first module, other modules have coding assignments.
 
+<div>Here is the <a href = "https://www.coursera.org/learn/html-css-javascript-for-web-developers" target="blank">link</a> to the course</div>
+
 <ul>
   <li>
     <h2>Module2 Assignment</h2>
