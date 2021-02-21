@@ -24,6 +24,11 @@ The course has 5 modules. Except first module, other modules have coding assignm
     <div><a href = "https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md" target = "_blank">Assignment</a></div>
     <div><a href = "https://akhildasari301.github.io/coursera-test/module4_solution/harder/index.html" target = "_blank">Solution</a></div>
   </li>
+   <li>
+    <h2>Module5 Assignment</h2>
+    <div><a href = "https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md" target = "_blank">Assignment</a></div>
+    <div><a href = "https://akhildasari301.github.io/coursera-test/module5_solution/index.html" target = "_blank">Solution</a></div>
+  </li>
   
 </ul>
 
