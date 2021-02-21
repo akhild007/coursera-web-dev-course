@@ -1,7 +1,5 @@
 
-# Coursera Test
-Courera test repository
-=======
+
 # coursera-test
 This Repository contains my solutions to the assignments of the course "HTML, CSS and Javascript for Web developers" form Coursera. 
 The course has 5 modules. Except first module, other modules have coding assignments.
