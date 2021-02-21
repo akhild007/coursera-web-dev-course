@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coursera Test
 Courera test repository
 =======
@@ -28,4 +28,3 @@ The course has 5 modules. Except first module, other modules have coding assignm
 </ul>
 
 
->>>>>>> de8559c3617cf00cfaa2aa34f9fa2034950ce428
